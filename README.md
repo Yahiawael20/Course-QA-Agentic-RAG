@@ -8,15 +8,15 @@ The system retrieves relevant information from course documents, plans how to an
 
 ## 🚀 Features
 
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Planner for tool selection
-- 🔎 Semantic search using FAISS
-- 📝 Course summarization
-- ⚖️ Concept comparison
-- ❓ Quiz generation
-- 📄 Source citation with page numbers
-- 🚫 Rejects questions outside the provided documents
-- 🎯 Answers only from course materials
+-  Retrieval-Augmented Generation (RAG)
+-  AI Planner for tool selection
+-  Semantic search using FAISS
+-  Course summarization
+-  Concept comparison
+-  Quiz generation
+-  Source citation with page numbers
+-  Rejects questions outside the provided documents
+-  Answers only from course materials
 
 ---
 
@@ -96,7 +96,7 @@ Example:
 
 ---
 
-### ⚖️ Compare Tool
+###  Compare Tool
 
 Compares two concepts using information retrieved from the documents.
 
@@ -107,7 +107,7 @@ Example:
 
 ---
 
-### ❓ Quiz Tool
+###  Quiz Tool
 
 Generates multiple-choice questions from the course materials.
 
@@ -185,8 +185,8 @@ The application allows users to:
 
 - What is Deep Learning?
 - Summarize Gradient Descent.
-- Compare Machine Learning and Deep Learning.
-- Create a quiz about Neural Networks.
+- Compare for loop and while loop.
+
 
 ---
 
